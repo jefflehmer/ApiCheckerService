@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiCheckerService", "ApiCheckerService\ApiCheckerService.csproj", "{F7BDB98C-DAC8-4BF8-AD4F-9D1787A9A83F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCheckerServiceTest", "ApiCheckerServiceTest\ApiCheckerServiceTest.csproj", "{13EBFAC3-C352-452D-96D2-CD192728083C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7BDB98C-DAC8-4BF8-AD4F-9D1787A9A83F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BDB98C-DAC8-4BF8-AD4F-9D1787A9A83F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BDB98C-DAC8-4BF8-AD4F-9D1787A9A83F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BDB98C-DAC8-4BF8-AD4F-9D1787A9A83F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EBFAC3-C352-452D-96D2-CD192728083C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EBFAC3-C352-452D-96D2-CD192728083C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EBFAC3-C352-452D-96D2-CD192728083C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EBFAC3-C352-452D-96D2-CD192728083C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2CA77A3-BFAF-4D1C-B623-E7A023E96B8C}
+	EndGlobalSection
+EndGlobal
